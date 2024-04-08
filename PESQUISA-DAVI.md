@@ -54,7 +54,7 @@ VSCode é um editor de código-fonte que foi lançado pela microsoft em 2015 e a
 <img src="https://github.com/Davi8002/AV1/assets/164496370/1998c5f4-f695-45b0-a393-6240083b82d4" width="650px">
 
 ## Referencias 
-[Link_1](https://www.dio.me/articles/principais-comandos-no-git-bash-voce-deve-saber)
-[Link_2](https://www.dio.me/articles/qual-a-diferenca-entre-git-github-e-git-bash)
-[Link_3](https://pt.wikipedia.org/wiki/Git)
-[Link_4](https://www.remessaonline.com.br/blog/visual-studio-code-confira-as-principais-funcoes-da-ferramenta/)
+[Referencia_1](https://www.dio.me/articles/principais-comandos-no-git-bash-voce-deve-saber)
+[Referencia_2](https://www.dio.me/articles/qual-a-diferenca-entre-git-github-e-git-bash)
+[Referencia_3](https://pt.wikipedia.org/wiki/Git)
+[Referencia_4](https://www.remessaonline.com.br/blog/visual-studio-code-confira-as-principais-funcoes-da-ferramenta/)
