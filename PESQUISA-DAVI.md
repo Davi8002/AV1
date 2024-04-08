@@ -50,7 +50,7 @@ GitHub e uma rede social baseada em Git onde e possivel postar projetos e ajudar
 ## VSCode
 
 ### O que e VSCode
-VSCode é um editor de código-fonte que foi lançado pela microsoft em 2015 e ate hoje e um dos maior utilizados isso acontece devido a o VSCode ter suporte a varias linguagens de programação e ser open source
+VSCode é um editor de código-fonte que foi lançado pela microsoft em 2015 e ate hoje e um dos mais utilizados isso acontece devido a o VSCode ter suporte a varias linguagens de programação e ser open source
 <img src="https://github.com/Davi8002/AV1/assets/164496370/1998c5f4-f695-45b0-a393-6240083b82d4" width="650px">
 
 ## Referencias 
